@@ -17,7 +17,6 @@ These people were selected by default.
 
 ### Robo Art
 
-    Vishank Singh
     Patole Nakul Bhausaheb
     Jaideep Nirmal A J
     Donavalli Sai Durga Rishi
@@ -194,13 +193,12 @@ Deadline: 19/09/2023 5PM
     Soham Prabhakar More
     Harshil Goyal
 
-### Solve The Case [Applied: 8, Max: 2]
+### Solve The Case [Applied: 7, Max: 2]
 
 Selections will be random.
 
     Rishikesh Kasireddy
     Dhadheechi Ravva
-    Vishank Singh
     Amogh Bindal
     Patole Nakul Bhausaheb
     Panshul Jindal
