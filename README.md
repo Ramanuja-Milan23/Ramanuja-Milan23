@@ -32,6 +32,7 @@ These people were selected by default.
     Chunduri Navyatha
     Patole Nakul Bhausaheb
     Donavalli Sai Durga Rishi
+    Ujwal
 
 ### Cosplay Showdown
 
@@ -92,6 +93,7 @@ Join this [whatsapp group](https://chat.whatsapp.com/ChryyCKk6eg6rhcwhxmd2N)
 15) Tanay Shardul Gangan
 16) Duppalapudi Kamal Koushik
 17) Aashi Ranjan
+18) Ujwal
 
 ## Events for which Selections will be conducted tommorow
 
@@ -158,7 +160,7 @@ Since only two are extra, I shall extend the withdrawal deadline till 19/09/2023
     Donavalli Sai Durga Rishi
     Aashi Ranjan
 
-### Quiz [Applied: 9, Max: 5]
+### Quiz [Applied: 10, Max: 5]
 
 Selection will be based on first come first serve basis
 
@@ -171,6 +173,7 @@ Selection will be based on first come first serve basis
     Vedant Krishnakant Mokal
     Tanay Shardul Gangan
     Abinash Samartha
+    Ujwal
 
 ### Micromouse [Applied: 8, Max: 3]
 
