@@ -13,6 +13,7 @@ These people were selected by default.
     Vishank Singh
     Jaideep Nirmal A J
     Soham Prabhakar More
+    Aashi Ranjan
 
 ### Robo Art
 
@@ -86,12 +87,14 @@ Rules about teams:
 14) Vedant Krishnakant Mokal  [Contact: <span style="color:rgb(86, 156, 214)">8928179255</span>]
 15) Tanay Shardul Gangan  [Contact: <span style="color:rgb(86, 156, 214)">9372839075</span>]
 16) Duppalapudi Kamal Koushik [Contact: <span style="color:rgb(86, 156, 214)">9963252792</span>]
+17) Aashi Ranjan [Contact: 8527397822]
 
 ## Events for which Selections will be conducted tommorow
 
 ### CTF [Applied: 10, Max: 6]
 
 Selections will be based on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScLTPY_FkKbqdafVqr4nriDB1uEBZMCTcXkd0l1Y5rbm1JzTQ/viewform?usp=sf_link)
+Deadline: 19/09/2023 5PM
 > if the number of selected people though the form is less than max, then it will be based on first come first serve.
 
     Mohd Shozab
@@ -108,6 +111,7 @@ Selections will be based on this [Google Form](https://docs.google.com/forms/d/e
 ### Codeopardy [Applied: 11, Max:TBD]
 
 Selections will be based on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe5lVtOb4fQ36ml_eEs_wK9XDUSzMOC8N2JS1Q7P-37LogUrQ/viewform?usp=sf_link)
+Deadline: 19/09/2023 5PM
 > if the number of selected people though the form is less than max, then it will be based on first come first serve.
 
     Vishank Singh
@@ -122,7 +126,7 @@ Selections will be based on this [Google Form](https://docs.google.com/forms/d/e
     Siddharth Pamidi
     Vedant Krishnakant Mokal
 
-### Propeller Car Race [Applied: 6, Max: 5]
+### Propeller Car Race [Applied: 7, Max: 5]
 
 Since only one is extra, I shall extend the withdrawal deadline till 19/09/2023 11:59PM
 > If no one withdraws, then selection will be based on who is participating in least number of events
@@ -134,8 +138,9 @@ Since only one is extra, I shall extend the withdrawal deadline till 19/09/2023 
     Amogh Bindal
     Patole Nakul Bhausaheb
     Donavalli Sai Durga Rishi
+    Aashi Ranjan
 
-### Water Rocketry [Applied: 6, Max: 5]
+### Water Rocketry [Applied: 7, Max: 5]
 
 Since only one is extra, I shall extend the withdrawal deadline till 19/09/2023 11:59PM
 > If no one withdraws, then selection will be based on who is participating in least number of events
@@ -147,6 +152,7 @@ Since only one is extra, I shall extend the withdrawal deadline till 19/09/2023 
     Patole Nakul Bhausaheb
     Jaideep Nirmal A J
     Donavalli Sai Durga Rishi
+    Aashi Ranjan
 
 ### Quiz [Applied: 9, Max: 5]
 
@@ -165,6 +171,7 @@ Selection will be based on first come first serve basis
 ### Micromouse [Applied: 8, Max: 3]
 
 Selections will be based on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfI36r6oWrI8vtL8vD3k8FeUu2nAjzQXNAalmTmEu5qdDsr6g/viewform?usp=sf_link)
+Deadline: 19/09/2023 5PM
 > if the number of selected people though the form is less than max, then selection will be based on who is participating in least number of events
 > then, in case of clash, priority will be given as first come first serve.
 
