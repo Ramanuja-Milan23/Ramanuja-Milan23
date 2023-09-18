@@ -25,7 +25,8 @@ These people were selected by default.
 ### Game Jam
 
     Soham Prabhakar More
-    Saran
+    Sai Srirama Saran Konala
+    Suchit Srivastava
 
 ### Mad Over Marketing
 
