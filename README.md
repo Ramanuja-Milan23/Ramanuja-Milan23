@@ -89,8 +89,8 @@ Rules about teams:
 
 ### CTF [Applied: 10, Max: 6]
 
-Selections will be based on this [Google Form](https://www.google.com/)
-> if the number of selected people is less than max, then some will be chosen by random
+Selections will be based on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScLTPY_FkKbqdafVqr4nriDB1uEBZMCTcXkd0l1Y5rbm1JzTQ/viewform?usp=sf_link)
+> if the number of selected people though the form is less than max, then it will be based on first come first serve.
 
     Mohd Shozab
     Vishank Singh
@@ -105,8 +105,8 @@ Selections will be based on this [Google Form](https://www.google.com/)
 
 ### Codeopardy [Applied: 11, Max:TBD]
 
-Selections will be based on this [Google Form](https://www.google.com/)
-> if the number of selected people is less than max, then some will be chosen by random
+Selections will be based on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe5lVtOb4fQ36ml_eEs_wK9XDUSzMOC8N2JS1Q7P-37LogUrQ/viewform?usp=sf_link)
+> if the number of selected people though the form is less than max, then it will be based on first come first serve.
 
     Vishank Singh
     Amogh Bindal
@@ -122,7 +122,7 @@ Selections will be based on this [Google Form](https://www.google.com/)
 
 ### Propeller Car Race [Applied: 6, Max: 5]
 
-Since only one is extra, I will extend the withdraw deadline till 19/09/2023 11:59PM
+Since only one is extra, I shall extend the withdrawal deadline till 19/09/2023 11:59PM
 
     Rishikesh Kasireddy
     Mohd Shozab
@@ -133,7 +133,7 @@ Since only one is extra, I will extend the withdraw deadline till 19/09/2023 11:
 
 ### Water Rocketry [Applied: 6, Max: 5]
 
-Since only one is extra, I will extend the withdraw deadline till 19/09/2023 11:59PM
+Since only one is extra, I shall extend the withdrawal deadline till 19/09/2023 11:59PM
 
     Rishikesh Kasireddy
     Mohd Shozab
@@ -156,8 +156,8 @@ Since only one is extra, I will extend the withdraw deadline till 19/09/2023 11:
 
 ### Micromouse [Applied: 8, Max: 3]
 
-Selections will be based on this [Google Form](https://www.google.com/)
-> if the number of selected people is less than max, then some will be chosen by random
+Selections will be based on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfI36r6oWrI8vtL8vD3k8FeUu2nAjzQXNAalmTmEu5qdDsr6g/viewform?usp=sf_link)
+> if the number of selected people though the form is less than max, then it will be based on first come first serve.
 
     Dhadheechi Ravva
     Mohd Shozab
