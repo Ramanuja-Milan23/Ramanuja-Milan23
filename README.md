@@ -97,7 +97,7 @@ Join this [whatsapp group](https://chat.whatsapp.com/ChryyCKk6eg6rhcwhxmd2N)
 
 ## Events for which Selections will be conducted tommorow
 
-### CTF [Applied: 10, Max: 6]
+### CTF [Applied: 11, Max: 6]
 
 Selections will be based on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScLTPY_FkKbqdafVqr4nriDB1uEBZMCTcXkd0l1Y5rbm1JzTQ/viewform?usp=sf_link)
 Deadline: 19/09/2023 5PM
@@ -113,8 +113,9 @@ Deadline: 19/09/2023 5PM
     Siddharth Pamidi
     Vedant Krishnakant Mokal
     Tanay Shardul Gangan
+    Duppalapudi Kamal Koushik
 
-### Codeopardy [Applied: 11, Max:TBD]
+### Codeopardy [Applied: 12, Max:TBD]
 
 Selections will be based on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe5lVtOb4fQ36ml_eEs_wK9XDUSzMOC8N2JS1Q7P-37LogUrQ/viewform?usp=sf_link)
 Deadline: 19/09/2023 5PM
@@ -131,6 +132,7 @@ Deadline: 19/09/2023 5PM
     Shriram Pragash M
     Siddharth Pamidi
     Vedant Krishnakant Mokal
+    Duppalapudi Kamal Koushik
 
 ### Propeller Car Race [Applied: 7, Max: 5]
 
