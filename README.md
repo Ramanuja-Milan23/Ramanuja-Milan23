@@ -43,7 +43,7 @@ These people were selected by default.
 
 Rules about teams:
 
-    There must be *at least* one experienced coder in each team.
+    There must be at least one experienced coder in each team.
     No participant should be in both teams.
 
    If any one of these rules are not followed then teams will be reshuffled.
