@@ -27,6 +27,12 @@ These people were selected by default.
     Sai Srirama Saran Konala
     Suchit Srivastava
 
+### Simulation of 3 Body Problem
+    Amogh Bindal
+    Patole Nakul Bhausaheb
+    Suchit Srivastava
+    Soham Prabhakar More
+
 ### Mad Over Marketing
 
     Chunduri Navyatha
