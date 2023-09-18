@@ -168,7 +168,7 @@ Since only two are extra, I shall extend the withdrawal deadline till 19/09/2023
     Donavalli Sai Durga Rishi
     Aashi Ranjan
 
-### Quiz [Applied: 10, Max: 5]
+### Quiz [Applied: 11, Max: 5]
 
 Selection will be based on first come first serve basis
 
@@ -182,6 +182,7 @@ Selection will be based on first come first serve basis
     Tanay Shardul Gangan
     Abinash Samartha
     Ujwal
+    Aditya Srivastava
 
 ### Micromouse [Applied: 8, Max: 3]
 
