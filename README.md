@@ -123,6 +123,7 @@ Selections will be based on this [Google Form](https://docs.google.com/forms/d/e
 ### Propeller Car Race [Applied: 6, Max: 5]
 
 Since only one is extra, I shall extend the withdrawal deadline till 19/09/2023 11:59PM
+> If no one withdraws, then selection will be based on first come first serve basis
 
     Rishikesh Kasireddy
     Mohd Shozab
@@ -134,6 +135,7 @@ Since only one is extra, I shall extend the withdrawal deadline till 19/09/2023 
 ### Water Rocketry [Applied: 6, Max: 5]
 
 Since only one is extra, I shall extend the withdrawal deadline till 19/09/2023 11:59PM
+> If no one withdraws, then selection will be based on first come first serve basis
 
     Rishikesh Kasireddy
     Mohd Shozab
