@@ -128,7 +128,7 @@ Deadline: 19/09/2023 5PM
 
 ### Propeller Car Race [Applied: 7, Max: 5]
 
-Since only one is extra, I shall extend the withdrawal deadline till 19/09/2023 11:59PM
+Since only two are extra, I shall extend the withdrawal deadline till 19/09/2023 11:59PM
 > If no one withdraws, then selection will be based on who is participating in least number of events
 > then, in case of clash, priority will be given as first come first serve. 
 
@@ -142,7 +142,7 @@ Since only one is extra, I shall extend the withdrawal deadline till 19/09/2023 
 
 ### Water Rocketry [Applied: 7, Max: 5]
 
-Since only one is extra, I shall extend the withdrawal deadline till 19/09/2023 11:59PM
+Since only two are extra, I shall extend the withdrawal deadline till 19/09/2023 11:59PM
 > If no one withdraws, then selection will be based on who is participating in least number of events
 > then, in case of clash, priority will be given as first come first serve.
 
