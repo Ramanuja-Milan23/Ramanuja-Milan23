@@ -55,39 +55,43 @@ Rules about teams:
 
 ### EPOCH [2 teams of 6 people each, odd members will be assigned randomly]
 
-1) Dhadheechi Ravva  [Contact: <span style="color:rgb(86, 156, 214)">9553051006</span>]
-2) Vishank Singh  [Contact: <span style="color:rgb(86, 156, 214)">8178882876</span>]
-3) Amogh Bindal  [Contact: <span style="color:rgb(86, 156, 214)">8962324375</span>]
-4) Aayush Gupta  [Contact: <span style="color:rgb(86, 156, 214)">7735968654</span>]
-5) Suchit Srivastava  [Contact: <span style="color:rgb(86, 156, 214)">9873450819</span>]
-6) Jaideep Nirmal A J  [Contact: <span style="color:rgb(86, 156, 214)">7022835787</span>]
-7) Soham Prabhakar More  [Contact: <span style="color:rgb(86, 156, 214)">7993460284</span>]
-8) Manasvi Gampa  [Contact: <span style="color:rgb(86, 156, 214)">8143955378</span>]
-9) Shriram Pragash M  [Contact: <span style="color:rgb(86, 156, 214)">9632333420</span>]
-10) Siddharth Pamidi  [Contact: <span style="color:rgb(86, 156, 214)">9901655155</span>]
-11) Vedant Krishnakant Mokal  [Contact: <span style="color:rgb(86, 156, 214)">8928179255</span>]
-12) Tanay Shardul Gangan  [Contact: <span style="color:rgb(86, 156, 214)">9372839075</span>]
-13) Duppalapudi Kamal Koushik [Contact: <span style="color:rgb(86, 156, 214)">9963252792</span>]
+Join this [whatsapp group](https://chat.whatsapp.com/BJu1xivne1iGNDsalvHtGA)
+
+1) Dhadheechi Ravva
+2) Vishank Singh
+3) Amogh Bindal
+4) Aayush Gupta
+5) Suchit Srivastava
+6) Jaideep Nirmal A J
+7) Soham Prabhakar More
+8) Manasvi Gampa
+9) Shriram Pragash M
+10) Siddharth Pamidi
+11) Vedant Krishnakant Mokal
+12) Tanay Shardul Gangan
+13) Duppalapudi Kamal Koushik
 
 ### Lambda  [3 teams of 5 people each, odd members will be assigned randomly]
 
-1) Rishikesh Kasireddy  [Contact: <span style="color:rgb(86, 156, 214)">8790789370</span>]
-2) Dhadheechi Ravva  [Contact: <span style="color:rgb(86, 156, 214)">9553051006</span>]
-3) Vishank Singh  [Contact: <span style="color:rgb(86, 156, 214)">8178882876</span>]
-4) Amogh Bindal  [Contact: <span style="color:rgb(86, 156, 214)">8962324375</span>]
-5) Aayush Gupta  [Contact: <span style="color:rgb(86, 156, 214)">7735968654</span>]
-6) Suchit Srivastava  [Contact: <span style="color:rgb(86, 156, 214)">9873450819</span>]
-7) Jaideep Nirmal A J  [Contact: <span style="color:rgb(86, 156, 214)">7022835787</span>]
-8) Aneesh Kadiyala  [Contact: <span style="color:rgb(86, 156, 214)">9398108253</span>]
-9) Soham Prabhakar More  [Contact: <span style="color:rgb(86, 156, 214)">7993460284</span>]
-10) Manasvi Gampa  [Contact: <span style="color:rgb(86, 156, 214)">8143955378</span>]
-11) Gullapalli Madhava Asrith Murthy  [Contact: <span style="color:rgb(86, 156, 214)">9136000474</span>]
-12) Shriram Pragash M  [Contact: <span style="color:rgb(86, 156, 214)">9632333420</span>]
-13) Siddharth Pamidi  [Contact: <span style="color:rgb(86, 156, 214)">9901655155</span>]
-14) Vedant Krishnakant Mokal  [Contact: <span style="color:rgb(86, 156, 214)">8928179255</span>]
-15) Tanay Shardul Gangan  [Contact: <span style="color:rgb(86, 156, 214)">9372839075</span>]
-16) Duppalapudi Kamal Koushik [Contact: <span style="color:rgb(86, 156, 214)">9963252792</span>]
-17) Aashi Ranjan [Contact: 8527397822]
+Join this [whatsapp group](https://chat.whatsapp.com/ChryyCKk6eg6rhcwhxmd2N)
+
+1) Rishikesh Kasireddy
+2) Dhadheechi Ravva
+3) Vishank Singh
+4) Amogh Bindal
+5) Aayush Gupta
+6) Suchit Srivastava
+7) Jaideep Nirmal A J
+8) Aneesh Kadiyala
+9) Soham Prabhakar More
+10) Manasvi Gampa
+11) Gullapalli Madhava Asrith Murthy
+12) Shriram Pragash M
+13) Siddharth Pamidi
+14) Vedant Krishnakant Mokal
+15) Tanay Shardul Gangan
+16) Duppalapudi Kamal Koushik
+17) Aashi Ranjan
 
 ## Events for which Selections will be conducted tommorow
 
@@ -130,7 +134,7 @@ Deadline: 19/09/2023 5PM
 
 Since only two are extra, I shall extend the withdrawal deadline till 19/09/2023 11:59PM
 > If no one withdraws, then selection will be based on who is participating in least number of events
-> then, in case of clash, priority will be given as first come first serve. 
+> then, in case of clash, priority will be given as first come first serve.
 
     Rishikesh Kasireddy
     Mohd Shozab
