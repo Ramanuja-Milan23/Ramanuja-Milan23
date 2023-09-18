@@ -1,4 +1,4 @@
-# Final List
+# Participants List
 
 > NOTE: As all selections will happen tommorow, so if you want to withdraw from an event, DM me by 11:59PM today.
 
@@ -125,7 +125,8 @@ Selections will be based on this [Google Form](https://docs.google.com/forms/d/e
 ### Propeller Car Race [Applied: 6, Max: 5]
 
 Since only one is extra, I shall extend the withdrawal deadline till 19/09/2023 11:59PM
-> If no one withdraws, then selection will be based on first come first serve basis
+> If no one withdraws, then selection will be based on who is participating in least number of events
+> then, in case of clash, priority will be given as first come first serve. 
 
     Rishikesh Kasireddy
     Mohd Shozab
@@ -137,7 +138,8 @@ Since only one is extra, I shall extend the withdrawal deadline till 19/09/2023 
 ### Water Rocketry [Applied: 6, Max: 5]
 
 Since only one is extra, I shall extend the withdrawal deadline till 19/09/2023 11:59PM
-> If no one withdraws, then selection will be based on first come first serve basis
+> If no one withdraws, then selection will be based on who is participating in least number of events
+> then, in case of clash, priority will be given as first come first serve.
 
     Rishikesh Kasireddy
     Mohd Shozab
@@ -163,7 +165,8 @@ Selection will be based on first come first serve basis
 ### Micromouse [Applied: 8, Max: 3]
 
 Selections will be based on this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfI36r6oWrI8vtL8vD3k8FeUu2nAjzQXNAalmTmEu5qdDsr6g/viewform?usp=sf_link)
-> if the number of selected people though the form is less than max, then it will be based on first come first serve.
+> if the number of selected people though the form is less than max, then selection will be based on who is participating in least number of events
+> then, in case of clash, priority will be given as first come first serve.
 
     Dhadheechi Ravva
     Mohd Shozab
@@ -176,7 +179,7 @@ Selections will be based on this [Google Form](https://docs.google.com/forms/d/e
 
 ### Solve The Case [Applied: 8, Max: 2]
 
-Will be selected by random tommorow
+Selections will be random.
 
     Rishikesh Kasireddy
     Dhadheechi Ravva
