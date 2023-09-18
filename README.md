@@ -1,5 +1,7 @@
 # Final List
 
+> NOTE: As all selections will happen tommorow, so if you want to withdraw from an event, DM me by 11:59PM today.
+
 ## Events for which there are no selections
 
 These people were selected by default.
@@ -146,6 +148,8 @@ Since only one is extra, I shall extend the withdrawal deadline till 19/09/2023 
 
 ### Quiz [Applied: 9, Max: 5]
 
+Selection will be based on first come first serve basis
+
     Dhadheechi Ravva
     Amogh Bindal
     Patole Nakul Bhausaheb
@@ -172,7 +176,7 @@ Selections will be based on this [Google Form](https://docs.google.com/forms/d/e
 
 ### Solve The Case [Applied: 8, Max: 2]
 
-Will be selected by random
+Will be selected by random tommorow
 
     Rishikesh Kasireddy
     Dhadheechi Ravva
