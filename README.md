@@ -170,7 +170,7 @@ Since only two are extra, I shall extend the withdrawal deadline till 19/09/2023
 
 ### Quiz [Applied: 11, Max: 5]
 
-Selection will be based on first come first serve basis
+Selection will be random.
 
     Dhadheechi Ravva
     Amogh Bindal
