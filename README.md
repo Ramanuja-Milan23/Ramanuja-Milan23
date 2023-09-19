@@ -67,7 +67,6 @@ Join this [whatsapp group](https://chat.whatsapp.com/BJu1xivne1iGNDsalvHtGA)
 1) Dhadheechi Ravva
 2) Vishank Singh
 3) Amogh Bindal
-4) Aayush Gupta
 5) Suchit Srivastava
 6) Jaideep Nirmal A J
 7) Soham Prabhakar More
@@ -86,7 +85,6 @@ Join this [whatsapp group](https://chat.whatsapp.com/ChryyCKk6eg6rhcwhxmd2N)
 2) Dhadheechi Ravva
 3) Vishank Singh
 4) Amogh Bindal
-5) Aayush Gupta
 6) Suchit Srivastava
 7) Jaideep Nirmal A J
 8) Aneesh Kadiyala
