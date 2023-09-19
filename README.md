@@ -108,7 +108,6 @@ Deadline: 19/09/2023 5PM
 > if the number of selected people though the form is less than max, then it will be based on first come first serve.
 
     Mohd Shozab
-    Vishank Singh
     Amogh Bindal
     Aayush Gupta
     Suchit Srivastava
