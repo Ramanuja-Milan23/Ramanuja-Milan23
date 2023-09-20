@@ -24,7 +24,6 @@
 ## Simulation of 3 Body Problem
 
     Amogh Bindal
-    Patole Nakul Bhausaheb
     Suchit Srivastava
     Soham Prabhakar More
 
