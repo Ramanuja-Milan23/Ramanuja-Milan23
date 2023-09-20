@@ -146,4 +146,5 @@ Join this [Whatsapp Group](https://chat.whatsapp.com/ChryyCKk6eg6rhcwhxmd2N)
 ## Solve The Case
 
     Amogh Bindal
-    Donavalli Sai Durga Rishi
+    Rishikesh Kasireddy
+
