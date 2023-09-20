@@ -93,8 +93,6 @@ Join this [Whatsapp Group](https://chat.whatsapp.com/ChryyCKk6eg6rhcwhxmd2N)
 16) Aashi Ranjan
 17) Ujwal
 
-## Events for which Selections will be conducted tommorow
-
 ## CTF
 
     Mohd Shozab
