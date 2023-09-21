@@ -95,7 +95,7 @@ Join this [Whatsapp Group](https://chat.whatsapp.com/ChryyCKk6eg6rhcwhxmd2N)
 
 ## CTF
 
-    Mohd Shozab
+    Duppalapudi Kamal Koushik
     Siddharth Pamidi
     Amogh Bindal
     Aayush Gupta
@@ -110,6 +110,7 @@ Join this [Whatsapp Group](https://chat.whatsapp.com/ChryyCKk6eg6rhcwhxmd2N)
     Gullapalli Madhava Asrith Murthy
     Soham Prabhakar More
     Amogh Bindal
+    Duppalapudi Kamal Koushik
 
 ## Propeller Car Race
 
