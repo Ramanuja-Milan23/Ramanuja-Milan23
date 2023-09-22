@@ -3,15 +3,12 @@
 ## Radio Crafters Creo fest
 
     Mohd Shozab
-    Chunduri Navyatha
-    Vishank Singh
     Jaideep Nirmal A J
     Soham Prabhakar More
     Aashi Ranjan
 
 ## Robo Art
 
-    Patole Nakul Bhausaheb
     Jaideep Nirmal A J
     Donavalli Sai Durga Rishi
 
@@ -122,7 +119,7 @@ Join this [Whatsapp Group](https://chat.whatsapp.com/ChryyCKk6eg6rhcwhxmd2N)
 
 ## Water Rocketry
 
-    Aashi Ranjan
+    Harshil Goyle
     Rishikesh Kasireddy
     Mohd Shozab
     Patole Nakul Bhausaheb
@@ -145,5 +142,5 @@ Join this [Whatsapp Group](https://chat.whatsapp.com/ChryyCKk6eg6rhcwhxmd2N)
 ## Solve The Case
 
     Amogh Bindal
-    Rishikesh Kasireddy
+    Deekshith
 
